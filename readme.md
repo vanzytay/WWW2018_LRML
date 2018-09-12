@@ -1,4 +1,4 @@
-## Latent Relational Metric Learning
+## Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking
 
 Implements a barebones reference implementation of the LRML model used in our WWW'18 experiments.
 
@@ -10,7 +10,7 @@ about 1+ years after I done the experiments. Please check the detailed comments 
 
 If you find our model useful, please consider citing our work.
 
-"""
+```
 @inproceedings{DBLP:conf/www/TayTH18,
   author    = {Yi Tay and
                Luu Anh Tuan and
@@ -28,4 +28,4 @@ If you find our model useful, please consider citing our work.
   biburl    = {https://dblp.org/rec/bib/conf/www/TayTH18},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-"""
+```
